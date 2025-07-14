@@ -8,8 +8,7 @@ env/
 venv/
 
 
-
-# Your local mapping file (contains personal paths)
+(contains personal paths)
 mapping.json
 Executable/dist/mapping.json
 
