@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.venv/
+env/
+venv/
+
+
+
+# Your local mapping file (contains personal paths)
+mapping.json
+Executable/dist/mapping.json
+
